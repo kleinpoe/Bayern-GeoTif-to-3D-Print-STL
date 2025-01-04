@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# In and Output files of these scripts
+.tif
+.stl
+
