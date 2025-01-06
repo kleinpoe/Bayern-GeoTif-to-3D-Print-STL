@@ -59,4 +59,4 @@ Customize the script by adapting the parameters at the bottom:
 Take the minimum of all models.
 - The STL model might be mirrored: Use the subsampling parameter of the conversion-step with negative sign. 
 - The images from BayernAtlas are slightly rotated (see screenshot above). You may compensate this in FIJI if you need north facing perfectly up.
-- I flavored this guide very bavaria specific but you might learn something from this example which might help you apply the method to non-bavarian use-cases.
+- I flavored this guide very bavaria specific but you might learn something from this example which might help you apply the method to non-bavarian use-cases. You may find *Geoportale* for other german areas e.g. here https://www.geo.fu-berlin.de/bibliotheken/Kartensammlung/Geoportale-der-Landesaemter.html
