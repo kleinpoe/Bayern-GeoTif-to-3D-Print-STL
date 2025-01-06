@@ -67,6 +67,8 @@ def heightmap_to_stl(image_path, output_stl_path, scale=(1, 1, 1), subsample=1):
     x_scale, y_scale, z_scale = scale
     height_data *= z_scale
     
+    # Make the model as thin as possible
+    # Adapt this line with a constant if you want to tile multiple prints
     height_data -= zMin
 
     rows, cols = height_data.shape
